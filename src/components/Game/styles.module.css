@@ -1,0 +1,22 @@
+.table {
+  width: 100%;
+}
+.col {
+  width: 33px;
+  height: 33px;
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  background-color: bisque;
+}
+.right-but-not-exactly-positioned {
+  background-color: orange;
+}
+.right-exactly-positioned {
+  background-color: green;
+}
+.wrong {
+  background-color: gray;
+}
